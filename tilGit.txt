@@ -1,0 +1,7 @@
+git clone git@github.com… —tilføj en kopi af noget til desktop
+cd + cd.. cd+navn på destination, cd .. = gå et niveau op
+touch NAVN.txt = lab en textfil med valgt navn
+git add NAVN = tilføj fil
+git commit -m’TITEL’ = tilføj med kommentar uden at gå ind i VI
+git push = send ændringr tip global repository på github
+rm -rf NAVN = fjern reposetory-clon from desktop
